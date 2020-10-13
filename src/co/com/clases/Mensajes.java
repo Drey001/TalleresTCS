@@ -1,6 +1,6 @@
 package co.com.clases;
 
-public class Mensajes {
+public final class Mensajes {
     private final String mensaje1 = "Digte los ingresos totales: ";
     private final String mensaje2 = "Digte los gastos fijos: ";
     private final String mensaje3 = "Digte los gasos variables ";
